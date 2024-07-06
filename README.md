@@ -1,8 +1,21 @@
-# React + Vite
+# Shopping Cart
+Este projeto é uma loja online simples inspirado no Mercado Livre, em que o usuário pode pesquisar por produtos, adicionar os produtos desejados no carrinho e, também, remover os produtos do carrinho.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Quais tecnologias foram utilizadas?
+- React.js
+- React icons
+- JavaScript
+- CSS
+- API do Mercado Livre
 
-Currently, two official plugins are available:
+## Por que desenvolvi esse projeto?
+Eu estava a algumas semanas sem criar um projeto React, por estar sem tempo por causa de meus estudos na universidade e, também, por ter decidido estudar Java(e outras tecnologias do Java). Então eu decidi que, quando eu tivesse tempo livre, eu faria um projeto React para não ficar "enferrujado".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Ferramentas utilizadas durante o desenvolvimento
+- VS Code
+- Eslint
+- Git/Github
+- Vite
+
+### API do Mercado Livre: 
+``https://api.mercadolibre.com/sites/MLB/search?q=$%7Bquery%7D``
