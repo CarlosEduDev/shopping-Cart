@@ -10,6 +10,9 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
+    transform: translate(110%, 0);
+    transition: all 400ms ease;
 }
 
 
@@ -27,4 +30,8 @@
 
 .cart-items .cart-item:last-child{
     border-top: none;
+}
+
+.cart--active{
+    transform: translate(0, 0);
 }
