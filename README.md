@@ -1,7 +1,7 @@
 # Shopping Cart
 Este projeto é uma loja online simples inspirado no Mercado Livre, em que o usuário pode pesquisar por produtos, adicionar os produtos desejados no carrinho e, também, remover os produtos do carrinho.
 
-## Ações possíveis:
+## Funcionalidades:
 - Pesquisar qualquer produto que o usuário desejar
 - Adicionar qualquer produto ao carrinho
 - Ao adicionar, poderá ver a soma dos preços dos produtos
